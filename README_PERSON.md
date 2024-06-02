@@ -22,7 +22,7 @@
 
 3. 按F12进入开发者模式，依次点网络->文档，然后选中weread.qq.com，下拉找到Cookie，复制Cookie值
 
-   ![](./README_PERSON.assets/640-1717326643516-1.webp)
+   ![](./asset/640-1717326643516-1.webp)
 
 ​	4. 要参照图片的值，有时候token会显示不完全。token过期时间不定。
 
@@ -36,13 +36,13 @@
 
  4. 打开[Notion API](https://developers.notion.com/)，添加一个新的集成，此集成的密钥即为'NOTION_TOKEN'的值，填入设置中。
 
-    ![](./README_PERSON.assets/image-20240602185116960-1717326678080-3.png)
+    ![](./asset/image-20240602185116960-1717326678080-3.png)
 
     
 
  5. 在个人模板页面链接到集成
 
-    ![](./README_PERSON.assets/image-20240602185249411-1717326702971-5.png)
+    ![](./asset/image-20240602185249411-1717326702971-5.png)
 
     
 
@@ -50,13 +50,13 @@
 
 1. 路径：Settings->Secrets and variables->Action->New repository secret
 
-   ![](./README_PERSON.assets/640-1717325796055-3-1717326740220-7.webp)
+   ![](./asset/640-1717325796055-3-1717326740220-7.webp)
 
 2. Name输入WEREAD_COOKIE，Secret输入框中填入你前面获取的微信读书Cookie，然后点击Add secret
 
 3. 继续点击New repository secret，分别增加变量NOTION_TOKEN和NOTION_PAGE。最终的结果如下图所示。
 
-   ![image-20240602185747506](./readme_person.assets/image-20240602185747506.png)
+   ![image-20240602185747506](./asset/image-20240602185747506.png)
 
 -----
 
