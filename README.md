@@ -37,17 +37,3 @@
 * [Podcast2Notion](https://github.com/malinkang/podcast2notion)
 * [Douban2Notion](https://github.com/malinkang/douban2notion)
 * [Keep2Notion](https://github.com/malinkang/keep2notion)
-
------
-
-### 图文教程：
-
-[WeRead2Notion-Pro强大的图书管理系统 (qq.com)](https://mp.weixin.qq.com/s/Wif_pyb5L3WlLLlj7iIPYw)
-
-### 视频教程
-
-[三分钟教程|如何将微信读书同步至 Notion，轻松做好阅读笔记_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1So4y1j7jG/?buvid=XXA5902A3049922A3552D09DA719E10E8230B&from_spmid=main.space-contribution.0.0&is_story_h5=false&mid=XFac7SNHsxedoPMoNXOIeQ%3D%3D&p=1&plat_id=116&share_from=ugc&share_plat=android&share_session_id=b45de8d1-6651-40ad-8191-1c77447a9165&share_tag=s_i&spmid=united.player-video-detail.0.0&unique_k=U7liFqT&up_id=38486980&vd_source=f241cb8b168a36489f69496d328a7831)
-
-### 图文教程存档：
-
-[WeRead2Notion-Pro强大的图书管理系统 (kdocs.cn)](https://www.kdocs.cn/l/cmQD5tyERrJe?from=docs)
