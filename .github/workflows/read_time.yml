@@ -1,6 +1,9 @@
 name: read time sync
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: "10 16 * * *"
